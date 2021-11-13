@@ -3,9 +3,6 @@
 
 #Lag et program i Python som regner ut BMI:
 
-
-#import math as m
-
 def main():
     bmi = getBMI()
     
