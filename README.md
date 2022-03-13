@@ -1,2 +1,2 @@
 # Undervisning - Python
-Dette er en fil for å regne ut BMI
+Viser en funksjon for å regne ut BMI på nybegynner nivå.
